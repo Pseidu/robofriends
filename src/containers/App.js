@@ -36,6 +36,7 @@ class App extends React.Component {
                     <ErrorBoundary>
                         <CardList robots={filteredRobots} />
                     </ErrorBoundary>
+                    <small>Robots lovingly delivered by Robohash.org</small>
                 </Scroll>
             </div>
         )

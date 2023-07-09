@@ -16,7 +16,6 @@ const CardList = ({ robots }) => {
                     );
                 })
             }
-            <small>Robots lovingly delivered by Robohash.org</small>
         </div>
     );
 }
